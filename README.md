@@ -1,3 +1,8 @@
+# らいんぼっと  
+https://lin.ee/KaLwTsV  
+![image](https://github.com/user-attachments/assets/62fc4be8-ff47-4abe-9cc8-532a7cece4ba)
+
+
 # link-shortcut  
 python:[https://qiita.com/firesign2023/items/1d340f1cb1d07e8cac10]
 
