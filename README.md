@@ -1,5 +1,9 @@
 # らいんぼっと  
 https://lin.ee/KaLwTsV  
+<img src="https://github.com/user-attachments/assets/62fc4be8-ff47-4abe-9cc8-532a7cece4ba" width="25%">  
+
+↓拡大版
+https://lin.ee/KaLwTsV  
 <img src="https://github.com/user-attachments/assets/62fc4be8-ff47-4abe-9cc8-532a7cece4ba" width="50%">
 
 
