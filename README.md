@@ -21,3 +21,8 @@ https://www.ai-souken.com/article/python-chatbot-creation-guide
 
 localai  
 https://zenn.dev/fulxcore/articles/60e2ef4fc757c0
+
+
+
+text generation local ai android   
+link:[https://github.com/frapastique/frapuse-ai-companion-android-app]  
